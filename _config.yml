@@ -1,27 +1,6 @@
 #logo: /assets/img/headshot_circle.png
-title: Shreya's homepage
-#description: Masters at CMU LTI
-# description: >- # this means to ignore newlines until "baseurl:"
-
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  shreya-terupally
-
-# Build settings
-remote_theme: mmistakes/minimal-mistakes@4.24.0
-plugins:
-  - jekyll-include-cache
-
-author:
-  name             : "Shreya Terupally"
-  avatar           : "/assets/images/profilepicture.jpg"
-  bio              : "Masters student at CMU LTI"
-  location         : "Pittsburgh, PA, USA"
-  github           : "shreya-terupally"
-  links:
-    - label: "sterupal [A] cs [D] cmu [D] edu"
-    - label: "  Google Scholar"
-      url: "https://scholar.google.com/citations?user=U2MUXuMAAAAJ&hl=en"
-
+title: Shreya Terupally
+description: Masters student at CMU LTI
+logo : "/images/profilepicture.jpg"
 show_downloads: false
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
